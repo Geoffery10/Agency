@@ -1,0 +1,9 @@
+<!-- This is used for changing Persona -->
+Rolls under 12 pass:
+?{Choose a Form|
+   Theon, [[3d6]]
+#Theon-Gif |
+   Bane, [[3d6]]
+#Bane-Gif |
+   Mouru, [[3d6]]
+#Mouru-Gif }

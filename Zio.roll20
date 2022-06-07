@@ -1,0 +1,14 @@
+<!-- This rolls different quantities of Zap -->
+Rolls under 12 pass:
+?{Number of Attacks|
+   1,#Zap |
+   2,Attempt 1: #Zap
+   Attempt 2: #Zap |
+   3,Attempt 1: #Zap
+   Attempt 2: #Zap
+   Attempt 3: #Zap |
+   4,Attempt 1: #Zap
+   Attempt 2: #Zap
+   Attempt 3: #Zap
+   Attempt 4: #Zap}
+   #Theon-Gif
