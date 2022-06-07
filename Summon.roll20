@@ -1,11 +1,11 @@
 <!-- This is used for changing Persona -->
 Rolls under 12 pass:
 ?{Choose a Form|
-   Theon, [[3d6]]
+   Theon, Switching to Theon: [[3d6]]
 #Theon-Gif |
-   Bane, [[3d6]]
+   Bane, Switching to Bane: [[3d6]]
 #Bane-Gif |
-   Mouru, [[3d6]]
+   Mouru, Switching to Mouru: [[3d6]]
 #Mouru-Gif | 
-    Polemos, [[3d6]]
+    Polemos, Switching to Polemos: [[3d6]]
 #Polemos-Gif}
