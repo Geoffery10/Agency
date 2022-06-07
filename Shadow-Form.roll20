@@ -1,4 +1,5 @@
 <!-- This allows changing between Bane's shadow form and the normal one -->
 ?{Choose a Form|
-   Normal,#Basic-Roll |
-   Bane (Shadow Form),#Basic-Roll - 4}
+   Normal, Switching to Non-Shadow Form: [[3d6]] |
+   Bane (Shadow Form), Switching to Non-Shadow Form: [[3d6-4]] }
+Under 12 is a pass
