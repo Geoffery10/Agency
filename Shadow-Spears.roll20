@@ -1,3 +1,3 @@
 <!-- Shadow Spears Attack from Bane -->
-&{template:default} {{name=Shadow Spears}} {{attack=[[3d6]]}} {{dx=12}} {{damage=[[4d6+1]]}} {{note=Double penetrating damage in flesh. It can be an Innate Attack. Unliving creatures, (such as zombies) aren't as heavily wounded, and only take x1 wounding. }}
+&{template:default} {{name=Shadow Spears}} {{attack=[[3d6]]}} {{IQ=12}} {{damage=[[4d6+1]]}} {{note=Double penetrating damage in flesh. Unliving creatures, (such as zombies) aren't as heavily wounded, and only take x1 wounding. }}
 [image](https://imgsrv.roll20.net/?src=https%3A//i.gifer.com/YpyM.gif)

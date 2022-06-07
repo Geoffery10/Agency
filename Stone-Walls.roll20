@@ -1,2 +1,2 @@
 <!-- This is the stone wall spell -->
-&{template:default} {{name=Stone Walls}} {{attack=[[3d6]]}} {{dx=12}} {{note=Each hex of Wall has 3 DR and 1 HP. Can take any shape you wish.}}
+&{template:default} {{name=Stone Walls}} {{attack=[[3d6]]}} {{IQ=12}} {{note=Each hex of Wall has 3 DR and 1 HP. Can take any shape you wish.}}

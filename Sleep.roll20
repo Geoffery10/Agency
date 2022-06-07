@@ -1,4 +1,4 @@
 <!-- This is the sleep spell -->
-&{template:default} {{name=Sleep}} {{attack=[[3d6]]}} {{dx=12}} {{note=This attack is cosmic and has no signature}} {{resist=Target must roll Will-4 to Resist}}
+&{template:default} {{name=Sleep}} {{attack=[[3d6]]}} {{IQ=12}} {{note=This attack is cosmic and has no signature}} {{resist=Target must roll Will-4 to Resist}}
 <!-- Fun Gif -->
 [image](https://imgsrv.roll20.net/?src=http%3A//pa1.narvii.com/5790/a772a019bfa59db0ce93364e168a22381b23fe58_00.gif)

@@ -1,2 +1,2 @@
 <!-- This is the lightning talons spell -->
-&{template:default} {{name=Lightning Talons}} {{attack=[[3d6]]}} {{dx=12}} {{damage=[[2d6]]}} {{note=Burn/Surge Damage}}
+&{template:default} {{name=Lightning Talons}} {{attack=[[3d6]]}} {{IQ=12}} {{damage=[[2d6]]}} {{note=Burn/Surge Damage}}
