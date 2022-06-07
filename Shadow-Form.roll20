@@ -1,4 +1,4 @@
-<!-- This allows chaning between Bane's shadow form and the normal one -->
+<!-- This allows changing between Bane's shadow form and the normal one -->
 ?{Choose a Form|
    Normal,#Basic-Roll |
    Bane (Shadow Form),#Basic-Roll - 4}
